@@ -10,5 +10,5 @@ window.BHAJAN=[
   {src:"vid/4.mp4", title:"Jai Shri Ram – Ayodhya|जय श्री राम – अयोध्या", poster:"vid/4.jpg"},
   {src:"vid/5.mp4", title:"Hari Stotram|हरि स्तोत्रम्", poster:"vid/5.jpg"},
   {src:"vid/6.mp4", title:"Chhathi Maiya|छठी मैया", poster:"vid/6.jpg"},
-   {src:"vid/7.mp4", title:"RAM AAYENGE|राम आएंगे"}, poster:"vid/7.jpg"},
+   {src:"vid/7.mp4", title:"RAM AAYENGE|राम आएंगे", poster:"vid/7.jpg"},
 ];

@@ -1,0 +1,32 @@
+{
+ "name": "Panchang, Rashi, Festivals & Puja Vidhi",
+ "short_name": "Panchang",
+ "description": "पंचांग, राशि, त्योहार और पूजा विधि",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#FBF5EA",
+ "theme_color": "#6B1A1A",
+ "lang": "hi",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
